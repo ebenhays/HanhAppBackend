@@ -6,7 +6,7 @@ Clone the repository
 
 Install all dependencies
 
-   In your powershell or package manager console, run
+   In your powershell or package manager console, run command
     
     dotnet restore
 
